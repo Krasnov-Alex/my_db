@@ -1,4 +1,4 @@
-# my_db
+# PyDB(Python DataBase)
 this is my database
 I am creating my own database that will run on python.
   v0.1
